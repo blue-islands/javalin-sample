@@ -2,3 +2,7 @@ javalin-thymeleaf/.settings/
 javalin-thymeleaf/.classpath
 javalin-thymeleaf/.project
 javalin-thymeleaf/target/
+javalin-tomcat/.settings/
+javalin-tomcat/target/
+javalin-tomcat/.classpath
+javalin-tomcat/.project
